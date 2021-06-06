@@ -1,5 +1,6 @@
 {
-  "name": "gmail-clone",
+  "homepage": "http://asudbury.github.io/react-gmail-clone",
+  "name": "react-gmail-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
