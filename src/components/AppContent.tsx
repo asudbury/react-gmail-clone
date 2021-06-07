@@ -181,7 +181,7 @@ const getMailList = () => [
   {
     labeled: true,
     read: true,
-    title: "Alexandre Teyar",
+    title: "Adrian Sudbury",
     description:
       "[siriwatknp/mui-treasury] New component suggestion -> InsetHeader (#817)",
     date: "May 18",
@@ -196,7 +196,7 @@ const getMailList = () => [
   {
     read: true,
     labeled: true,
-    title: "Olivier Tassinari",
+    title: "Sultan of Brunei",
     description:
       "Re: [mui-org/material-ui] [docs] Improve mui-treasury integration (#21054)",
     date: "May 16",
@@ -206,7 +206,7 @@ const getMailList = () => [
     labeled: true,
     title: (
       <>
-        <span>Olivier Tassinari</span>
+        <span>Sultan of Brunei</span>
         <span>2</span>
       </>
     ),
@@ -217,7 +217,7 @@ const getMailList = () => [
   {
     read: true,
     labeled: true,
-    title: "Sebastian Silbermann",
+    title: "National Lottery",
     description:
       "Re: [mui-org/material-ui] [docs] update links to mui-treasury (#21054)",
     date: "May 16",
@@ -244,14 +244,14 @@ const getMailList = () => [
   {
     read: true,
     labeled: true,
-    title: "Alexandre Teyar",
+    title: "Adrian Sudbury",
     description: "[siriwatknp/mui-treasury] [Discussion] Nested menu (#798)",
     date: "May 14",
   },
   {
     read: true,
     labeled: true,
-    title: "Aaron Hayes",
+    title: "Nottingham Forest",
     description:
       "[siriwatknp/mui-treasury] [Discussion] Form Components  (#792)",
     date: "May 14",
@@ -261,7 +261,7 @@ const getMailList = () => [
     labeled: true,
     title: (
       <>
-        <span>Olivier Tassinari</span>
+        <span>Sultan of Brunei</span>
         <span>6</span>
       </>
     ),
@@ -279,7 +279,7 @@ const getMailList = () => [
   {
     read: true,
     label: true,
-    title: "Alexandre Teyar",
+    title: "Adrian Sudbury",
     description:
       "Re: [siriwatknp/mui-treasury] Header default config not working (#714)",
     date: "May 3",
@@ -310,7 +310,7 @@ const getMailList = () => [
   {
     read: true,
     label: true,
-    title: "Alexandre Teyar",
+    title: "Adrian Sudbury",
     description:
       "Re: [siriwatknp/mui-treasury] Header default config not working (#714)",
     date: "Apr 22",
@@ -357,7 +357,7 @@ const getMailList = () => [
   {
     read: true,
     label: true,
-    title: "Alexandre Teyar",
+    title: "Adrian Sudbury",
     description:
       "Re: [siriwatknp/mui-treasury] Header default config not working (#714)",
     date: "Mar 27",
