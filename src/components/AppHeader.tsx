@@ -75,7 +75,10 @@ const AppHeader = () => {
           className={styles.searchInput}
           placeholder="Search mail"
           startAdornment={
-            <IconButton className={gutterStyles.adjacent} classes={actionStyles}>
+            <IconButton
+              className={gutterStyles.adjacent}
+              classes={actionStyles}
+            >
               <Search />
             </IconButton>
           }
@@ -97,8 +100,8 @@ const AppHeader = () => {
           <IconButton classes={avatarStyles}>
             <div className={googleStyles.root}>
               <Avatar
-                alt=""
-                src="https://lh3.googleusercontent.com/ogw/ADGmqu8IRt2zAKQDEDvqL5Egm51VKCxJm2eb-N8YELr3=s64-c-mo"
+                alt="Adrian Sudbury"
+                src="https://avatars.githubusercontent.com/u/3384470?v=4"
               />
             </div>
           </IconButton>

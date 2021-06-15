@@ -145,15 +145,13 @@ const getMailList = () => [
     labeled: true,
     title: (
       <>
-        <b>Grab</b>
+        <b>Adrian Sudbury</b>
         <span>3</span>
       </>
     ),
     description: (
       <>
-        <b>Your Grab E-Receipt</b> - ทานอาหารให้อร่อย! รวม THB 220 วันที่ | เวลา
-        21 May 20 08:39 +0700 รายละเอียดการเดินทาง GrabFood ชื่อผู้ขับ (GFH)xxx
-        ชื่อผู้เดินทาง xxx รหัสการจอง IOS-91396443-9-056 สถานที่
+        <b>Lottery Ticket</b> - Your in the draw :-)
       </>
     ),
     date: <b>May 21</b>,
@@ -332,9 +330,7 @@ const getMailList = () => [
   {
     title: <b>allcontributors[bot]</b>,
     description: (
-      <b>
-        [siriwatknp/mui-treasury] docs: add aress31 as a contributor (#679)
-      </b>
+      <b>[siriwatknp/mui-treasury] docs: add aress31 as a contributor (#679)</b>
     ),
     date: "Apr 22",
   },
@@ -342,8 +338,7 @@ const getMailList = () => [
     read: true,
     label: true,
     title: "Alice Wonder",
-    description:
-      "Lead / Senior Engineers For Bangkok",
+    description: "Lead / Senior Engineers For Bangkok",
     date: "Apr 21",
   },
   {
