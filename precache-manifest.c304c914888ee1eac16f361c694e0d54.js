@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aae58bac127b7c5a5c3a7dd9f4fe1dbd",
+    "revision": "5b264b1ddf9055c265f88582dc54526e",
     "url": "/react-gmail-clone/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-gmail-clone/static/js/2.5f8eb30a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38ad7a93fb3171002e72",
-    "url": "/react-gmail-clone/static/js/main.25d54ded.chunk.js"
+    "revision": "b29aff4d90ae60cd5bdf",
+    "url": "/react-gmail-clone/static/js/main.018b66e6.chunk.js"
   },
   {
     "revision": "9401b733d3bc09ee9b76",

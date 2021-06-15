@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-gmail-clone/precache-manifest.087274d76be430b1e99725ec55903b0d.js"
+  "/react-gmail-clone/precache-manifest.c304c914888ee1eac16f361c694e0d54.js"
 );
 
 self.addEventListener('message', (event) => {
