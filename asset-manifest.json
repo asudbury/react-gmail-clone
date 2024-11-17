@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-gmail-clone/static/js/main.2ae92dc0.js",
+    "main.js": "/react-gmail-clone/static/js/main.128acef3.js",
     "index.html": "/react-gmail-clone/index.html",
-    "main.2ae92dc0.js.map": "/react-gmail-clone/static/js/main.2ae92dc0.js.map"
+    "main.128acef3.js.map": "/react-gmail-clone/static/js/main.128acef3.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ae92dc0.js"
+    "static/js/main.128acef3.js"
   ]
 }
